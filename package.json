@@ -1,0 +1,16 @@
+{
+  "name": "sass-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass-lint": "sass-lint 'sass/**/*/.scss",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass-lint": "^1.10.2"
+  }
+}
